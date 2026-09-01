@@ -51,4 +51,4 @@ Jika semuanya berhasil, antarmuka `wlan0` seharusnya sudah muncul.
 
 ## Lisensi
 
-Driver ini mengikuti lisensi dari proyek aslinya dan dibagikan untuk tujuan edukasi dan penggunaan pribadi dalam ekosistem SixZuper-Labs.
+Driver ini mengikuti lisensi dari proyek aslinya dan dibagikan untuk tujuan edukasi dan penggunaan pribadi dalam ekosistem SixZuper-Labs By Mr. R.
